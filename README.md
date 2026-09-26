@@ -57,12 +57,11 @@ python --version
 ### Installation
 
 1. **Clone or Download the Repository:**
-   ```bash
+   
    git clone https://github.com/arpiitttxd/VITyarthi-project
    cd VITyarthi-project
-   ```
 
-2. **Verify Project Files:**
+3. **Verify Project Files:**
    Ensure all `.py` files are located in the same directory:
    - `main.py`
    - `menu_data.py`
