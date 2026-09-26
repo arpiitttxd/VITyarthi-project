@@ -59,7 +59,7 @@ python --version
 1. **Clone or Download the Repository:**
    
    git clone: https://github.com/arpiitttxd/VITyarthi-project
-   cd VITyarthi-project
+   Navigate into the project folder: cd VITyarthi-project
 
 3. **Verify Project Files:**
    Ensure all `.py` files are located in the same directory:
