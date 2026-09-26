@@ -58,8 +58,8 @@ python --version
 
 1. **Clone or Download the Repository:**
    ```bash
-   git clone <[repository-url](https://github.com/arpiitttxd/VITyarthi-project)>
-   cd <repository-folder-name>
+   git clone [repository-url](https://github.com/arpiitttxd/VITyarthi-project)
+   cd VITyarthi-project
    ```
 
 2. **Verify Project Files:**
