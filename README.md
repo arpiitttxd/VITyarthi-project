@@ -58,7 +58,7 @@ python --version
 
 1. **Clone or Download the Repository:**
    ```bash
-   git clone <repository-url>
+   git clone <[repository-url](https://github.com/arpiitttxd/VITyarthi-project)>
    cd <repository-folder-name>
    ```
 
