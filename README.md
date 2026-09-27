@@ -39,7 +39,7 @@ The **Restaurant Management & Billing System** is a lightweight, terminal-based 
 ├── menu_display.py         # Visual menu layout and formatting
 ├── menu_data.py            # Menu dictionary database and lookup functions
 ├── order_processing.py     # Functions handling order selection and quantity input
-└── billing_and_payment.py # Logic for billing calculations, payment, and receipt generation
+└── billing_and_payment.py  # Logic for billing calculations, payment, and receipt generation
 ```
 
 ---
